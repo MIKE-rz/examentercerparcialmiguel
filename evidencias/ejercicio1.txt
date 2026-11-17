@@ -1,0 +1,15 @@
+(.venv) PS C:\Users\197038-6\Documents\Examenparcial3miguel> python ejercicio_1/main.py
+Horas estacionadas: 2
+RECIBO DE ESTACIONAMIENTO
+Horas: 2
+Total a pagar: $30.00
+(.venv) PS C:\Users\197038-6\Documents\Examenparcial3miguel> python ejercicio_1/main.py
+Horas estacionadas: 4
+RECIBO DE ESTACIONAMIENTO
+Horas: 4
+Total a pagar: $48.00
+(.venv) PS C:\Users\197038-6\Documents\Examenparcial3miguel> python ejercicio_1/main.py
+Horas estacionadas: 6
+RECIBO DE ESTACIONAMIENTO
+Horas: 6
+Total a pagar: $60.00
