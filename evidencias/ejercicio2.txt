@@ -1,0 +1,15 @@
+(.venv) PS C:\Users\197038-6\Documents\Examenparcial3miguel> python ejercicio_2/main.py                                                               
+Número 1: 20
+Número 2: 8
+
+Operación: Suma
+Resultado de la suma: 28
+
+Operación: Resta
+Resultado de la resta: 12
+(.venv) PS C:\Users\197038-6\Documents\Examenparcial3miguel> python ejercicio_2/main.py
+Número 1: 15
+Número 2: 5
+
+Operación: Suma
+Resultado de la suma: 20
